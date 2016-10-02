@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=The Prayer
+Comment=
+Exec=sh -c "cd /home/naheel/Projects/Vala/ThePrayerVala/bin && ./theprayer"
+Icon=/home/naheel/Projects/Vala/ThePrayerVala/bin/ic_launcher.png
+Terminal=false
+Categories=

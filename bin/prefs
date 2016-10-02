@@ -1,0 +1,14 @@
+false//isAr(true-false)
+false//isLight(true-false)
+false//is24HourFormat(true-false)
+25.285447000000001//latitude
+51.531039999999997//longitude
+3//timezone
+qatar//calc_method(karachi-isna-mwl-makkah-egypt-qatar)
+shafii//asr_juristic(shafii-hanafi)
+anglebased//high_lats_method(none-midnight-oneseventh-anglebased)
+25//iqamaFajr
+20//iqamaDuhr
+25//iqamaAsr
+10//iqamaMagrib
+20//iqamaIsha

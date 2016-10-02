@@ -1,0 +1,2 @@
+#!/bin/bash
+cp ./theprayer.desktop $HOME/.local/share/applications
